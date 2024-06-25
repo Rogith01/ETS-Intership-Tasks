@@ -1,0 +1,87 @@
+body{
+    border: 2px solid black;
+   
+}
+.title{
+    background-color: yellow;
+    padding: 10px 10px;
+}
+.title h1{
+    text-align: center;
+}
+.title h2{
+    text-align: center;
+    padding-left: 20px;
+}
+/*
+.nav ul {
+    list-style-type:none;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    padding: 2px 2px;
+   
+}
+.nav a{
+    display:block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 45px;
+}
+.nav a:hover{
+    background-color: green;
+}
+.center{
+    display: flex;
+}
+.center img{
+    padding-right: 20px;
+}
+div h2{
+    padding-left: 150px;
+}
+.center p{
+    padding: 20px;
+    text-align: justify;
+    width: 9000px;   
+}
+.but{
+    padding-left: 150px;
+
+}
+.but button{
+    background-color: brown;
+    margin: 15px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.but button:hover{
+    background-color: green;
+}
+.last{
+    display: flex;
+}
+.last p{
+    padding: 20px;
+    text-align: justify;
+    width:950px;
+}
+.im1{
+    padding: 20px;
+}
+.im2{
+    padding-left: 90px;
+}
+.tri{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.tri button{
+    background-color: blue;
+    color: white;
+}
+.tri button:hover{
+    background-color: green;
+}
+
+
